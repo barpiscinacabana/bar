@@ -1,27 +1,41 @@
-# Bar Nova Cabana
+# 🍔 Bar Nova Cabana
 
-Web estática lista para publicar en GitHub Pages.
+Sitio web oficial de **Bar Nova Cabana**, situado en las instalaciones de la piscina de Marratxí.
 
-## Publicar en GitHub Pages
+La página está diseñada para que los clientes puedan consultar la carta desde un código QR y conocer las instalaciones del bar.
 
-1. Crea un repositorio llamado `bar-nova-cabana`.
-2. Sube todos los archivos de esta carpeta.
-3. En GitHub: Settings → Pages.
-4. En “Build and deployment”, selecciona `Deploy from a branch`.
-5. Elige `main` y carpeta `/root`.
-6. Guarda y espera a que GitHub genere la URL.
+## 🌞 ¿Qué incluye?
 
-La URL será parecida a:
+* 🍔 Carta digital
+* 📸 Galería de las instalaciones
+* 🏓 Zona de ping pong
+* 🎯 Pistas de petanca
+* 👨‍👩‍👧 Zona infantil
+* 📞 Información de contacto
+* 📍 Acceso directo a Google Maps
+* 📱 Diseño adaptable para móviles (Responsive)
 
-`https://TU-USUARIO.github.io/bar-nova-cabana/`
+## 🚀 Publicación
 
-## Generar QR
+La web está publicada mediante **GitHub Pages**.
 
-Cuando tengas la URL final, genera un QR con esa dirección. Puedes usar Canva, QR Code Monkey o este comando:
+Una vez activado GitHub Pages, estará disponible en:
 
-```bash
-pip install qrcode[pil]
-qr "https://TU-USUARIO.github.io/bar-nova-cabana/" > qr-nova-cabana.png
+```
+https://TU-USUARIO.github.io/bar-nova-cabana/
 ```
 
-Después sustituye el QR del cartel por `qr-nova-cabana.png`.
+## 📞 Contacto
+
+**Bar Nova Cabana**
+
+📍 Calle Balancuera, 87
+07141 Marratxí (Mallorca)
+
+☎ 610 63 96 22
+
+✉ [alesabar@gmail.com](mailto:alesabar@gmail.com)
+
+---
+
+Desarrollado con HTML, CSS y JavaScript.
