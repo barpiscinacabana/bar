@@ -511,3 +511,20 @@
 
 	
   }
+
+
+.contact-actions .btn.secondary {
+  color: #063044 !important;
+  background: #ffffff !important;
+  border: 2px solid #063044 !important;
+  font-size: 16px !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  text-indent: 0 !important;
+}
+
+.contact-actions .btn.secondary:hover {
+  color: #ffffff !important;
+  background: #063044 !important;
+}
+	  
