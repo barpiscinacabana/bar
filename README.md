@@ -29,12 +29,12 @@ https://TU-USUARIO.github.io/bar-nova-cabana/
 
 **Bar Nova Cabana**
 
-📍 Calle Balancuera, 87
+📍 Calle Balanguera, 87
 07141 Marratxí (Mallorca)
 
 ☎ 610 63 96 22
 
-✉ [alesabar@gmail.com](mailto:alesabar@gmail.com)
+✉ [:barnovacabana@gmail.com](mailto::barnovacabana@gmail.com)
 
 ---
 
