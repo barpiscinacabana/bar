@@ -34,7 +34,7 @@ https://TU-USUARIO.github.io/bar-nova-cabana/
 
 ☎ 610 63 96 22
 
-✉ [:barnovacabana@gmail.com](mailto::barnovacabana@gmail.com)
+✉ [barnovacabana@gmail.com](mailto:barnovacabana@gmail.com)
 
 ---
 
