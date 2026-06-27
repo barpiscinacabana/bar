@@ -1,6 +1,6 @@
-# 🍔 Bar Nova Cabana
+# 🍔 Bar piscina Cabana
 
-Sitio web oficial de **Bar Nova Cabana**, situado en las instalaciones de la piscina de Marratxí.
+Sitio web oficial de **Bar piscina Cabana**, situado en las instalaciones de la piscina de Marratxí.
 
 La página está diseñada para que los clientes puedan consultar la carta desde un código QR y conocer las instalaciones del bar.
 
@@ -27,14 +27,14 @@ https://TU-USUARIO.github.io/bar-nova-cabana/
 
 ## 📞 Contacto
 
-**Bar Nova Cabana**
+**Bar piscina Cabana**
 
 📍 Calle Balanguera, 87
 07141 Marratxí (Mallorca)
 
 ☎ 610 63 96 22
 
-✉ [barnovacabana@gmail.com](mailto:barnovacabana@gmail.com)
+✉ [barpiscinacabana@gmail.com](mailto:barpiscinacabana@gmail.com)
 
 ---
 
